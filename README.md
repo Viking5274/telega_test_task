@@ -3,4 +3,4 @@
 
 add API_ID, API_HASH, BOT_TOKEN to .env
 
-to start bot, run telega.py
+to start bot run telega.py
